@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherActivity</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_what_a_nice_day">Hello, What a nice day!</string>
+    <string name="how_is_the_weather_today">How is the weather today?</string>
+    <string name="how_is_your_feeling_today">How is your feeling today?</string>
+</resources>
